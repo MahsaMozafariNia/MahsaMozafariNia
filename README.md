@@ -38,49 +38,17 @@ With modern AI increasingly capable of generating code, I believe the ability to
 
 **Neural network optimization and data-efficient learning**
 
-Research and implementation investigating how neural networks can learn more efficiently, with a focus on improving optimization and reducing the data or computational resources required for effective training.
+**More training data is not always better**: identifying and removing less informative samples can improve **accuracy, generalization, and robustness** while increasing data efficiency, including in **continual learning** settings.
 
-**Focus:** Neural Network Optimization · Data Efficiency · Deep Learning · Machine Learning Research
-
----
-
-### [ProGReST](https://github.com/MahsaMozafariNia/ProGReST)
-
-**Prototypical Graph Regression Soft Trees for interpretable molecular property prediction**
-
-An interpretable graph-learning framework combining **Graph Neural Networks, prototype learning, and soft decision trees** to make molecular property predictions while providing human-interpretable rationales.
-
-**Focus:** Graph Neural Networks · Explainable AI · Prototype Learning · Regression
-
----
-
-### [ProtoTree](https://github.com/MahsaMozafariNia/ProtoTree)
-
-**Prototype-based interpretable deep learning**
-
-Research on neural networks that make predictions through learned prototypes and interpretable decision structures, connecting predictive performance with explanations that can be inspected and understood.
-
-**Focus:** Deep Learning · Prototype Learning · Explainable AI · Computer Vision
-
----
-
-### [VLG-CBM](https://github.com/MahsaMozafariNia/VLG-CBM)
-
-**Concept-based interpretable machine learning**
-
-Research exploring concept-based representations for connecting learned visual features with human-understandable concepts and predictions.
-
-**Focus:** Concept-Based Models · Computer Vision · Explainable AI · Representation Learning
+**Focus:** Data Efficiency · Sample Selection · Continual Learning · Robustness
 
 ---
 
 ### [ASCC Thermal Classification](https://github.com/MahsaMozafariNia/ASCC-Thermal-Classification)
 
-**Machine learning for thermal behavior analysis in additive manufacturing**
+Machine learning on **3D-printer thermal data** to automatically detect abnormal thermal behavior and support **preventive prediction of process anomalies** in additive manufacturing.
 
-Scientific machine learning for processing thermal measurements, engineering spatial and temporal features, and identifying meaningful patterns in large-scale additive manufacturing processes.
-
-**Focus:** Scientific ML · Feature Engineering · Data Processing · Thermal Analysis
+**Focus:** Predictive Maintenance · Anomaly Detection · Thermal Data · Machine Learning · Additive Manufacturing
 
 ---
 
