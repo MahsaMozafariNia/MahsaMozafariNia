@@ -11,8 +11,8 @@ My research focuses on understanding and improving the foundations of learning a
 With modern AI increasingly capable of generating code, I believe the ability to understand the **mathematics, algorithms, assumptions, and optimization principles behind a model** is becoming even more important. My goal is to build AI systems that are not only effective, but also efficient, interpretable, and technically well understood.
 
 [![Website](https://img.shields.io/badge/Website-Portfolio-2ea44f?style=flat-square)](https://MahsaMozafariNia.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square\&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mahsa-mozafarinia-66b5151a3/))
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square\&logo=google-scholar)]([YOUR_GOOGLE_SCHOLAR_URL](https://scholar.google.com/citations?user=jJUYsAgAAAAJ&hl=en))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/mahsa-mozafarinia-66b5151a3/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square\&logo=google-scholar)](https://scholar.google.com/citations?user=jJUYsAgAAAAJ&hl=en)
 
 ---
 
