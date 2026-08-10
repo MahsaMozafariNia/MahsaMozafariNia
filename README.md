@@ -107,8 +107,8 @@ My research spans **mathematics, machine learning, neural network efficiency, ex
 ## Connect
 
 **Portfolio:** https://MahsaMozafariNia.github.io
-**LinkedIn:** YOUR_LINKEDIN_URL
-**Google Scholar:** YOUR_GOOGLE_SCHOLAR_URL
+**LinkedIn:** https://www.linkedin.com/in/mahsa-mozafarinia-66b5151a3/
+**Google Scholar:** https://scholar.google.com/citations?user=jJUYsAgAAAAJ&hl=en
 
 
 <!--
