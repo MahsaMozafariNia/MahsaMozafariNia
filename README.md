@@ -64,14 +64,6 @@ With modern AI increasingly capable of generating code, I believe the ability to
 
 ---
 
-### [ASCC Thermal Classification](https://github.com/MahsaMozafariNia/ASCC-Thermal-Classification)
-
-Machine learning on **3D-printer thermal data** to automatically detect abnormal thermal behavior and support **preventive prediction of process anomalies** in additive manufacturing.
-
-**Focus:** Predictive Maintenance · Anomaly Detection · Thermal Data · Machine Learning · Additive Manufacturing
-
----
-
 ## Research Interests
 
 * Mathematical Foundations of Machine Learning
