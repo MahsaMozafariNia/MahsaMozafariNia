@@ -32,7 +32,7 @@ With modern AI increasingly capable of generating code, I believe the ability to
 
 ---
 
-## Selected Research & Projects
+## Research & Projects
 
 ### [xGCD](https://github.com/ifratmitul/xGCD)
 
