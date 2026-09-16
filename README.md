@@ -34,11 +34,19 @@ With modern AI increasingly capable of generating code, I believe the ability to
 
 ## Selected Research & Projects
 
+### [xGCD]
+
+**Collaborator · Generalized Category Discovery and Concept-Based Learning**
+
+**Discovering and interpreting novel categories:** developing methods to identify previously unseen classes while learning meaningful, interpretable concepts for both known and novel categories.
+
+**Focus:** Generalized Category Discovery · Concept Bottleneck Models · Novel Concept Discovery · Interpretable AI
+
 ### [Efficiency](https://github.com/MahsaMozafariNia/Efficiency)
 
 **Neural network optimization and data-efficient learning**
 
-**More training data is not always better**: identifying and removing less informative samples can improve **accuracy, generalization, and robustness** while increasing data efficiency, including in **continual learning** settings.
+**More training data is not always better:** identifying and removing less informative samples can improve **accuracy, generalization, and robustness** while increasing data efficiency, including in **continual learning** settings.
 
 **Focus:** Data Efficiency · Sample Selection · Continual Learning · Robustness
 
