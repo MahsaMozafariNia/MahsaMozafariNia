@@ -34,7 +34,7 @@ With modern AI increasingly capable of generating code, I believe the ability to
 
 ## Research & Projects
 
-### [thermal-monitoring-additive-manufacturing](https://github.com/MahsaMozafariNia/thermal-monitoring-additive-manufacturing)
+### [Thermal-Monitoring-Additive-Manufacturing](https://github.com/MahsaMozafariNia/thermal-monitoring-additive-manufacturing)
 
 **Thermal Monitoring for Large-Format Additive Manufacturing**
 
