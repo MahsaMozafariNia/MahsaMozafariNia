@@ -34,7 +34,7 @@ With modern AI increasingly capable of generating code, I believe the ability to
 
 ## Selected Research & Projects
 
-### [xGCD]
+### [xGCD](https://github.com/ifratmitul/xGCD.git)
 
 **Collaborator · Generalized Category Discovery and Concept-Based Learning**
 
