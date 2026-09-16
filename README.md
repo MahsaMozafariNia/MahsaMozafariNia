@@ -34,6 +34,16 @@ With modern AI increasingly capable of generating code, I believe the ability to
 
 ## Research & Projects
 
+### [thermal-monitoring-additive-manufacturing](https://github.com/MahsaMozafariNia/thermal-monitoring-additive-manufacturing)
+
+**Thermal Monitoring for Large-Format Additive Manufacturing**
+
+**Catching print defects early:** exploring how thermal camera data collected during large-format 3D printing can reveal collapsed layers, poor interlayer bonding, and residual stress before they become visible defects — ideally while the print is still running.
+
+**Focus:** Thermal Imaging · Additive Manufacturing · Process Monitoring · Anomaly Detection
+
+---
+
 ### [xGCD](https://github.com/ifratmitul/xGCD)
 
 **Generalized Category Discovery and Concept-Based Learning**
@@ -41,6 +51,8 @@ With modern AI increasingly capable of generating code, I believe the ability to
 **Discovering and interpreting novel categories:** developing methods to identify previously unseen classes while learning meaningful, interpretable concepts for both known and novel categories.
 
 **Focus:** Generalized Category Discovery · Concept Bottleneck Models · Novel Concept Discovery · Interpretable AI
+
+---
 
 ### [Efficiency](https://github.com/MahsaMozafariNia/Efficiency)
 
