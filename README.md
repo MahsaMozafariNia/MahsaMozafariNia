@@ -1,6 +1,6 @@
 # Mahsa Mozafarinia
 
-> ### *Beyond writing code: I focus on the mathematics, optimization, and interpretability behind machine learning systems.*
+> ### *Beyond writing code: I focus on the mathematics, optimization, and interpretability behind machine learning and deep learning systems.*
 
 ### Mathematics Ph.D. | Machine Learning Researcher | Explainable AI
 
